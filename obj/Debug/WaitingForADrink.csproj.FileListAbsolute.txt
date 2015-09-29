@@ -1,0 +1,6 @@
+c:\users\wisienkas\documents\visual studio 2015\Projects\WaitingForADrink\WaitingForADrink\bin\Debug\WaitingForADrink.exe.config
+c:\users\wisienkas\documents\visual studio 2015\Projects\WaitingForADrink\WaitingForADrink\bin\Debug\WaitingForADrink.exe
+c:\users\wisienkas\documents\visual studio 2015\Projects\WaitingForADrink\WaitingForADrink\bin\Debug\WaitingForADrink.pdb
+c:\users\wisienkas\documents\visual studio 2015\Projects\WaitingForADrink\WaitingForADrink\obj\Debug\WaitingForADrink.csprojResolveAssemblyReference.cache
+c:\users\wisienkas\documents\visual studio 2015\Projects\WaitingForADrink\WaitingForADrink\obj\Debug\WaitingForADrink.exe
+c:\users\wisienkas\documents\visual studio 2015\Projects\WaitingForADrink\WaitingForADrink\obj\Debug\WaitingForADrink.pdb
