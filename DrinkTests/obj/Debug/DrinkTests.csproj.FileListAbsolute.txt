@@ -1,0 +1,8 @@
+c:\users\wisienkas\documents\visual studio 2015\Projects\WaitingForADrink\DrinkTests\bin\Debug\DrinkTests.dll
+c:\users\wisienkas\documents\visual studio 2015\Projects\WaitingForADrink\DrinkTests\bin\Debug\DrinkTests.pdb
+c:\users\wisienkas\documents\visual studio 2015\Projects\WaitingForADrink\DrinkTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\users\wisienkas\documents\visual studio 2015\Projects\WaitingForADrink\DrinkTests\bin\Debug\WaitingForADrink.exe
+c:\users\wisienkas\documents\visual studio 2015\Projects\WaitingForADrink\DrinkTests\bin\Debug\WaitingForADrink.pdb
+c:\users\wisienkas\documents\visual studio 2015\Projects\WaitingForADrink\DrinkTests\obj\Debug\DrinkTests.csprojResolveAssemblyReference.cache
+c:\users\wisienkas\documents\visual studio 2015\Projects\WaitingForADrink\DrinkTests\obj\Debug\DrinkTests.dll
+c:\users\wisienkas\documents\visual studio 2015\Projects\WaitingForADrink\DrinkTests\obj\Debug\DrinkTests.pdb
